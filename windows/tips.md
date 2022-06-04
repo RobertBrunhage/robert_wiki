@@ -3,8 +3,8 @@
 A big goal of mine is to have keybinds for as much as possible. This is mainly beacuse it's more fun but also feels a lot smoother to work with.
 
 ## TLDR of keybinds:
-[windows+(ctrl)+1,2,3,4,...] = focus/open application in the order of the taskbar, keep some applications unpinned so you have some keys for random one-time programs.
-[windows+arrow, windows+shift+arrow] = snap application to different part of the screen or move applications between screens.
+- [windows+(ctrl)+1,2,3,4,...] = focus/open application in the order of the taskbar, keep some applications unpinned so you have some keys for random one-time programs.
+- [windows+arrow, windows+shift+arrow] = snap application to different part of the screen or move applications between screens.
 
 
 ## Window management
