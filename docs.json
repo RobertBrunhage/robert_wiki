@@ -4,6 +4,11 @@
   "twitter": "robertbrunhage",
   "sidebar": [
     ["Overview", "/"],
-    ["Windows tips", "/windows/tips"]
+    ["Windows", 
+      [
+	["Tips", "/windows/tips"],
+	["Terminal Commands", "/windows/commands"]
+      ]
+    ]
   ]
 }
