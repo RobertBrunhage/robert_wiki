@@ -1,0 +1,9 @@
+{
+  "name": "docs.page",
+  "theme": "#36B9B9",
+  "twitter": "robertbrunhage",
+  "sidebar": [
+    ["Overview", "/"],
+    ["Windows tips", "/windows/tips"]
+  ]
+}
